@@ -1,4 +1,4 @@
-I worked as an artist and scripter for the CRPG mod for Mount & Blade II: Bannerlord. I designed and created maps for the online player community, combining my artistic skills with technical scripting to enhance the game's experience.
+I worked as an artist and scripter for the CRPG mod for Mount & Blade II: Bannerlord. I was a level-designer for the online player community, combining my artistic skills with technical scripting to enhance the game's experience.
 
 Project Images: 
 
