@@ -1,3 +1,5 @@
+I worked as an artist and scripter for a CRPG mod for Mount & Blade II: Bannerlord. I designed and created maps for the online player community, combining my artistic skills with technical scripting to enhance the game's experience.
+
 Project Images: 
 
 ![Screenshot (244)](https://github.com/Pouriamohseni/CRPG-Talmberg/assets/145625808/0133444b-a91c-4991-9a70-27938e2435a9)
